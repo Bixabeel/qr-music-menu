@@ -1,2 +1,2 @@
 # qr-music-menu
-Send ur music to the queue
+Send Ur Music To The Queue
